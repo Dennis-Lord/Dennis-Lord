@@ -48,6 +48,6 @@ This is where I opensource stuff and break things...😕
 
 <br/>
 
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dennis-Lord&theme=dark&show_icons=true&hide_border=true&hide=stars,contribs"/>
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dennis-Lord&theme=dark&show_icons=true&hide_border=true&hide=stars"/>
 
 [icons]: https://shields.io/
