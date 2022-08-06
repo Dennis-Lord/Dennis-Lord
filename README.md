@@ -4,14 +4,9 @@ This is where I opensource stuff and break things...😕
 
 <br/>
 
-- Web Developer
-    - React
-- Mobile Application Developer
-    - React Native
-    - Flutter
-- UI/UX Designer
+## I'm a Developer!
 
-### Connect: 
+### Connect with me: 
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
@@ -20,6 +15,7 @@ This is where I opensource stuff and break things...😕
 ---
 
 <br/>
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dennis-Lord&show_icons=true&hide_border=true&hide=stars,contribs"/>
+
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dennis-Lord&theme=dark&show_icons=true&hide_border=true&hide=stars,contribs"/>
 
 [linkedin]: https://linkedin.com/
