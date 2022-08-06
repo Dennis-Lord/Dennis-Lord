@@ -36,7 +36,7 @@ This is where I opensource stuff and break things...😕
 
 ### Connect with me: 
 
-[[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://linkedin.com/in/dennis-amankwah)
+[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://linkedin.com/in/dennis-amankwah)
 
 <br/>
 
@@ -44,4 +44,4 @@ This is where I opensource stuff and break things...😕
 
 <br/>
 
-[<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dennis-Lord&theme=dark&show_icons=true&hide_border=true&hide=stars,contribs"/>
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dennis-Lord&theme=dark&show_icons=true&hide_border=true&hide=stars,contribs"/>
