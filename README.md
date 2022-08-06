@@ -17,4 +17,4 @@ This is where I opensource stuff and break things...😕
 
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dennis-Lord&theme=dark&show_icons=true&hide_border=true&hide=stars,contribs"/>
 
-[linkedin]: https://linkedin.com/
+[linkedin]: https://linkedin.com/in/dennis-amankwah
