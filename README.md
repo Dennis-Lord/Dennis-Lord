@@ -17,6 +17,8 @@ This is where I opensource stuff and break things...😕
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][icons]
 &nbsp;
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][icons]
+&nbsp;
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][icons]
 &nbsp;
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][icons]
