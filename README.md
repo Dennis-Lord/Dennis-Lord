@@ -7,7 +7,7 @@ This is where I opensource stuff and break things...😕
 
 ### Connect with me: 
 
-[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.png"/>][linkedin]
+[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 <br/>
 
