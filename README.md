@@ -25,7 +25,7 @@ This is where I opensource stuff and break things...😕
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][icons]
 &nbsp;
-[<img src="https://img.shields.io/badge/SQL-282C34?logo=sql&logoColor=47A248" alt="MongoDB logo" title="SQL" height="25" />][icons]
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=sql&logoColor=47A248" alt="MongoDB logo" title="SQL" height="25" />][icons]
 &nbsp;
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][icons]
 &nbsp;
